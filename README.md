@@ -11,3 +11,4 @@ Learning DSA with Chai Aur code channel   Concept of way of teaching is best to 
 7) DAY -7 Circular Queue( notes link :https://www.notion.so/Circular-Queue-2e2b8f1bf2068025a271d65ce0a49f76?source=copy_link)
 8) DAY -8 Recursion in python (notes link : https://www.notion.so/Recursion-in-python-2e3b8f1bf206803ab6abe3c4280f8e24?source=copy_link)
 9) DAY -9 Tree (Introduction of Tree & types & its Representation) (notes link : https://www.notion.so/Introduction-of-Tree-types-its-Representation-2e4b8f1bf2068097b96cdfc442695a40?source=copy_link)
+10) Day -10 Tree Travesal (methods for Inorder,postorder,Preorder) (notes link :https://www.notion.so/Tree-Traversal-2e6b8f1bf206804d9382e7cca81e3154?source=copy_link)
