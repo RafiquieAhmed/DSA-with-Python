@@ -1,0 +1,13 @@
+learn about   Inorder Traversal (Left → Root → Right)
+
+Commonly used in Binary Search Trees to get sorted output
+
+Preorder Traversal (Root → Left → Right)
+
+Useful for copying trees and prefix expressions
+
+ Postorder Traversal (Left → Right → Root)
+
+Used in deleting trees and postfix expressions
+
+ Role of recursion in implementing tree traversals
