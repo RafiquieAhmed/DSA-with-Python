@@ -1,0 +1,25 @@
+DSA Learning Journey | Day 11
+
+Continuing my Data Structures & Algorithms (DSA) journey 📚
+
+Today, I learned about Binary Search Trees (BST) and focused on insertion and searching operations, understanding how BST properties help in faster data access.
+
+📌 What I learned today:
+
+✅ What is a Binary Search Tree (BST)
+
+Left subtree values < Root
+
+Right subtree values > Root
+
+✅ BST Insertion
+
+Placing nodes based on BST rules
+
+Recursive and iterative thinking
+
+✅ BST Searching
+
+Efficient search with average time complexity O(log n)
+
+Comparison with linear search in arrays and linked lists
