@@ -1,4 +1,4 @@
-# DSA-with-Python
+D# DSA-with-Python
 Learning DSA with Chai Aur code channel   Concept of way of teaching is best to learn new things   with help of creature fund 
 
 1) DAY -1 Learn about Time Complexity. (notes Link :https://www.notion.so/Introduction-to-dsa-and-Time-Complexity-2dcb8f1bf20680d48b29e0c4ec52ea52?source=copy_link)
@@ -13,3 +13,4 @@ Learning DSA with Chai Aur code channel   Concept of way of teaching is best to 
 9) DAY -9 Tree (Introduction of Tree & types & its Representation) (notes link : https://www.notion.so/Introduction-of-Tree-types-its-Representation-2e4b8f1bf2068097b96cdfc442695a40?source=copy_link)
 10) Day -10 Tree Travesal (methods for Inorder,postorder,Preorder) (notes link :https://www.notion.so/Tree-Traversal-2e6b8f1bf206804d9382e7cca81e3154?source=copy_link)
 11) DAY -11 Binary Search Tree (insertion & searching ) (notes link :https://www.notion.so/Binary-search-Tree-BST-2e7b8f1bf20680739affca9f2f063ecb?source=copy_link)
+12) DAY -12 Deletion BST (notes link :https://www.notion.so/Binary-search-tree-Deletion-2e8b8f1bf2068025ac92e1a6ab4eab40?source=copy_link)
