@@ -14,3 +14,4 @@ Learning DSA with Chai Aur code channel   Concept of way of teaching is best to 
 10) Day -10 Tree Travesal (methods for Inorder,postorder,Preorder) (notes link :https://www.notion.so/Tree-Traversal-2e6b8f1bf206804d9382e7cca81e3154?source=copy_link)
 11) DAY -11 Binary Search Tree (insertion & searching ) (notes link :https://www.notion.so/Binary-search-Tree-BST-2e7b8f1bf20680739affca9f2f063ecb?source=copy_link)
 12) DAY -12 Deletion BST (notes link :https://www.notion.so/Binary-search-tree-Deletion-2e8b8f1bf2068025ac92e1a6ab4eab40?source=copy_link)
+13) Day 13 Graph Representation (Matrix Representation ) (notes link :https://www.notion.so/GRAPH-2e9b8f1bf206800f9f41ec95d72b1a18?source=copy_link)
