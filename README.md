@@ -16,4 +16,5 @@ Learning DSA with Chai Aur code channel   Concept of way of teaching is best to 
 12) DAY -12 Deletion BST (notes link :https://www.notion.so/Binary-search-tree-Deletion-2e8b8f1bf2068025ac92e1a6ab4eab40?source=copy_link)
 13) Day-13 Graph Representation (Matrix Representation ) (notes link :https://www.notion.so/GRAPH-2e9b8f1bf206800f9f41ec95d72b1a18?source=copy_link)
 14) DAY-14 Graph Adjacency List Representation(notes link:https://www.notion.so/Graph-Adjacency-List-Representation-2edb8f1bf20680eab5efe820daa557b5?source=copy_link)
-15) DAY -15 DFS (notes link :https://www.notion.so/DFS-2eeb8f1bf20680d5a7d2cb44579bf973)
+15) DAY -15 DFS (notes link : https://www.notion.so/DFS-2eeb8f1bf20680d5a7d2cb44579bf973)
+16) DAY -16 BFS( notes link : https://www.notion.so/BFS-2efb8f1bf206800e82dff350da0d627e?source=copy_link)
