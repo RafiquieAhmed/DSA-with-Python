@@ -1,0 +1,28 @@
+# Breadth-First Search (BFS)
+What is BFS?
+
+Breadth-First Search (BFS) is a graph/tree traversal algorithm that explores all neighbors first, then moves level by level away from the source node.
+
+Key Idea (One Line)
+
+BFS visits nodes in increasing order of distance from the start node.
+
+How BFS Works (Step-by-Step)
+
+Start from a source node
+
+Put it into a queue
+
+Mark it as visited
+
+Repeatedly:
+
+Dequeue a node
+
+Visit all its unvisited neighbors
+
+Enqueue those neighbors
+
+Data Structure Used
+
+Queue (FIFO) ← this is what makes BFS level-by-level
