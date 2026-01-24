@@ -19,4 +19,5 @@ Learning DSA with Chai Aur code channel   Concept of way of teaching is best to 
 15) DAY -15 DFS (notes link : https://www.notion.so/DFS-2eeb8f1bf20680d5a7d2cb44579bf973)
 16) DAY -16 BFS( notes link : https://www.notion.so/BFS-2efb8f1bf206800e82dff350da0d627e?source=copy_link)
 17) DAY -17 Bubble Sort (note link : https://www.notion.so/Bubble-Sort-2f0b8f1bf20680fb86ebfb03cdb71548?source=copy_link)
-18) DAY -18 Selection Sort( notes link : https://www.notion.so/Selection-Sort-2f1b8f1bf20680048057db942bf6e6d6?source=copy_link) 
+18) DAY -18 Selection Sort( notes link : https://www.notion.so/Selection-Sort-2f1b8f1bf20680048057db942bf6e6d6?source=copy_link)
+19) DAY -19 Insertion sort ( notes link :https://www.notion.so/INSERTION-SORT-2f2b8f1bf2068002b2dbc8ca8ab06056?source=copy_link)
