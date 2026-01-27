@@ -23,3 +23,4 @@ Learning DSA with Chai Aur code channel   Concept of way of teaching is best to 
 19) DAY -19 Insertion sort ( notes link :https://www.notion.so/INSERTION-SORT-2f2b8f1bf2068002b2dbc8ca8ab06056?source=copy_link)
 20) DAY -20 Merge Sort(notes link : https://www.notion.so/MERGE-SORT-2f3b8f1bf206803fae1bc50ae2d2411c?source=copy_link)
 21) DAY -21 Quick Sort (notes link : https://www.notion.so/Quick-Sort-2f4b8f1bf20680cda032d13f451dad1f?source=copy_link)
+22) DAY -22 Divide and Conquer (notes link :https://www.notion.so/Divide-and-Conquer-2f5b8f1bf206801a814cca18f99da973?source=copy_link)
