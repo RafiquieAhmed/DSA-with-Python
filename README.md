@@ -27,3 +27,4 @@ time complexity need for topic
 21) DAY -21 Quick Sort (notes link : https://www.notion.so/Quick-Sort-2f4b8f1bf20680cda032d13f451dad1f?source=copy_link)
 22) DAY -22 Divide and Conquer (notes link :https://www.notion.so/Divide-and-Conquer-2f5b8f1bf206801a814cca18f99da973?source=copy_link)
 23) DAY -23 Greedy Algorithm (notes link : https://www.notion.so/Greedy-Algorithm-2f6b8f1bf206805a8da4f6cf56fbcd38?source=copy_link)
+24) DAY -24 Knapsack Problem — Greedy Approach (Fractional Knapsack) (notes link :https://www.notion.so/Knapsack-Problem-Greedy-Approach-Fractional-Knapsack-2f9b8f1bf206801b9c4dd1883620b42f?source=copy_link)
